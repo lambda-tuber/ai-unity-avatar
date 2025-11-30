@@ -1,0 +1,43 @@
+{
+  "manifest_version": "0.2",
+  "name": "ai-unia-mcp-server",
+  "version": "0.0.1",
+  "description": "MCP server for VRM/Live2D Avatars.",
+  "author": {
+    "name": "Aska Lanclaude",
+    "email": "crypto.tuber.magika@gmail.com",
+    "url": "https://github.com/lambda-tuber/ai-unia-mcp-server"
+  },
+  "homepage": "https://github.com/lambda-tuber/ai-unia-mcp-server",
+  "documentation": "https://github.com/lambda-tuber/ai-unia-mcp-server",
+  "support": "https://github.com/lambda-tuber/ai-unia-mcp-server/issues",
+  "server": {
+    "type": "python",
+    "entry_point": "ai-unia-mcp-server",
+    "mcp_config": {
+      "command": "python",
+      "args": [
+        "${__dirname}\\ai_unia_mcp_server.py",
+        "${__dirname}"
+      ],
+      "env": {
+        "PYTHONPATH": "${__dirname}",
+        "PYTHONUTF8": "1"
+      }
+    }
+  },
+  "tools": [
+  ],
+  "tools_generated": true,
+  "prompts": [
+  ],
+  "prompts_generated": true,
+  "keywords": [
+    "VRM",
+    "Live2D",
+    "VOICEVOX",
+    "MCP",
+    "AI"
+  ],
+  "license": "Apache-2.0"
+}

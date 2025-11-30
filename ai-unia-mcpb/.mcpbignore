@@ -1,0 +1,21 @@
+
+tests/*
+.pytest_cache/*
+dist/*
+*.egg-info/*
+**/__pycache__/*
+ mcpb_pack.bat
+.pypirc
+*.bat
+released/*
+*.avi
+*.png
+*.bak
+requirements.txt
+server.json
+pyproject.toml
+MANIFEST.in
+build/*
+libs/*
+manifest_uvx.json
+manifest.pip.json

@@ -1,0 +1,9 @@
+archive/*
+docs/*
+pty-mcp-server/*
+**/*.mcpb
+**/*.exe
+**/ai-unity-avatar_Data
+**/MonoBleedingEdge
+**/*.dll
+**/*.meta
