@@ -7,7 +7,7 @@ Voicevoxとの統合により音声合成にも対応し、視覚と聴覚の両
 
 
 ## Youtube 動画一覧
-- [シリーズまとめはこちら](https://www.youtube.com/playlist?list=PLML1P2WReMnmcc8C__lQsz3c_nBFaXRB_)
+- [シリーズまとめはこちら](https://www.youtube.com/playlist?list=PLML1P2WReMnnDsqau8ReYRFzHPcWS4lO8)
 
 ----
 
